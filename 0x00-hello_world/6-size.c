@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * Program to print the size of different types in c
- */
+ *  * main - Prints sized of characters
+ *   *
+ *    *Return: Always 0 (success)
+ *     */
 
 int main(void)
 {

@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * A program to print text with a new line on the screen
- */
+ *  * main - Entry point
+ *   * Description: prints "\"Programming is like building a multilingual puzzle"
+ *    * Return: 0
+ *     */
 int main(void)
 {
 	puts ("\"Programming is like building a multilingual puzzle");
