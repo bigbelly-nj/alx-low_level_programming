@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  *main - entry point
- * Description: program that checks whether an integer is positive or negative and prints the result
+ * Description: checks for positive and negative int
  * Return: 0
  */
 
