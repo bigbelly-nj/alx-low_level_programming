@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <unistd.h>
-
 /**
  * main - Entry point
  * Description: prints all the single digit numbers of bse 10 followed by a new line
@@ -16,5 +15,5 @@ int main(void)
 		putchar(a + '0');
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }

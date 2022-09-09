@@ -1,4 +1,4 @@
-#include <stdn.h>
+#include <stdio.h>
 #include <unistd.h>
 
 /**
@@ -22,5 +22,5 @@ int main(void)
 		putchar(c);
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }

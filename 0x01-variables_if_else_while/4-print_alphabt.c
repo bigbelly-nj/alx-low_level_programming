@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <putchar.h>
+#include <unistd.h>
 
 /**
  * main - Entry
@@ -23,5 +23,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return(0);
+	return (0);
 }
