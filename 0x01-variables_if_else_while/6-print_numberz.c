@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - Entry point
- * Description: prints all the single digit numbers of bse 10 followed by a new line
+ * Description: prints all single digit numbers of base ten
  * Return: Always 0 (success)
  */
 

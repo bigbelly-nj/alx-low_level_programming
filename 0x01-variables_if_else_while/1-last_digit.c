@@ -1,15 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* main - Entry point
+/**
+ * main - Entry point
  * Description: Program to assign a random number to an variable everytime it is executed
  * Return: 0
  */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
-		int n;
+		int n, m;
 
 			srand(time(0));
 				n = rand() - RAND_MAX / 2;
