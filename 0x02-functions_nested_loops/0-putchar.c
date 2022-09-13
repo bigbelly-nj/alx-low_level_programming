@@ -1,4 +1,5 @@
 #include "main.h"
+#include "_putchar.h"
 /**
  * main - Entry point
  * Description: prints 'putchar\n'
